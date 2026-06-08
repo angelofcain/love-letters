@@ -2,6 +2,11 @@
   {
     "id": 1,
     "title": "Letter 1",
-    "content": "I love you because you make everything softer."
+    "content": "I love you because you make my world softer."
+  },
+  {
+    "id": 2,
+    "title": "Letter 2",
+    "content": "Every day with you feels like home."
   }
 ]
